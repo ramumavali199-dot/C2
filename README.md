@@ -1,2 +1,2 @@
-# C2
-Telegram alerts for crypto candles
+# Bybit Crypto ML Bot
+This is an advanced ML powered crypto trading bot.
